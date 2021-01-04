@@ -1,4 +1,4 @@
 # hyperreflective-dots-annotation-tool
 Matlab GUI for annotating hyperreflective dots on OCT images
 
-![Image description](layout.png)
+![Image description](layout.PNG)
